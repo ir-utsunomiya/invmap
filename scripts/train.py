@@ -18,3 +18,4 @@ class GPTraining():
         #self.map_path = 
         pass
 
+
